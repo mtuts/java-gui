@@ -1,4 +1,4 @@
-package lesson07;
+package lesson06;
 
 public enum ColumnType {
   Integer,

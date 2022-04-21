@@ -1,4 +1,4 @@
-package lesson07;
+package lesson06;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

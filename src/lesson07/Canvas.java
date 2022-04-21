@@ -1,4 +1,4 @@
-package lesson08;
+package lesson07;
 
 import javax.swing.JPanel;
 
