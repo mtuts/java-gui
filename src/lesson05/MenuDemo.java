@@ -446,8 +446,6 @@ public class MenuDemo extends JFrame implements ActionListener, DocumentListener
 
   @Override
   public void windowOpened(WindowEvent e) {
-    // TODO Auto-generated method stub
-    
   }
 
   @Override
@@ -461,27 +459,19 @@ public class MenuDemo extends JFrame implements ActionListener, DocumentListener
   }
 
   @Override
-  public void windowIconified(WindowEvent e) {
-    // TODO Auto-generated method stub
-    
+  public void windowIconified(WindowEvent e) {    
   }
 
   @Override
   public void windowDeiconified(WindowEvent e) {
-    // TODO Auto-generated method stub
-    
   }
 
   @Override
   public void windowActivated(WindowEvent e) {
-    // TODO Auto-generated method stub
-    
   }
 
   @Override
   public void windowDeactivated(WindowEvent e) {
-    // TODO Auto-generated method stub
-    
   }
 
   public static void main(String[] args) {
