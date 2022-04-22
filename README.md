@@ -11,16 +11,16 @@ Introduction to Swing Components such as JButton, JTextField, and JLabel.
 In this lesson, we implement naive text editor. You will learn how to use JFileChooser to display open and save dialog. Moreover, a textarea used to display file contents (JTextArea).
 
 ### [Lesson 3](src/lesson03)
-Introduction to Swing Components such as JButton, JTextField, and JLabel.
+Display formated numbers in textfield.
 
 ### [Lesson 4](src/lesson04)
-Introduction to Swing Components such as JButton, JTextField, and JLabel.
+Using JList add/edit/remove item.
 
 ### [Lesson 5](src/lesson05)
-Introduction to Swing Components such as JButton, JTextField, and JLabel.
+Introduction to menu.
 
 ### [Lesson 6](src/lesson06)
-Disply data using JTable.
+Display data using JTable.
 
 ### [Lesson 7](src/lesson07)
 Introduction to draw in Java.
